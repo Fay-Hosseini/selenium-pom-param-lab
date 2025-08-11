@@ -1,0 +1,7 @@
+pip install selenium pytest webdriver-manager
+pip show selenium
+pip show pytest
+pip show webdriver-manager
+
+to see the HTML report: allure serve allure-results
+
