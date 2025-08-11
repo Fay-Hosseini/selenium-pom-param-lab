@@ -1,5 +1,8 @@
 name: Selenium Pytest with Allure
 
+permissions:
+  contents: write
+
 on:
   push:
     branches: [ "main" ]
